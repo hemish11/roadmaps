@@ -9,11 +9,11 @@ Below is the checklist for each day’s tasks. You can check off the tasks as yo
 
 ### **Day 1: Setting Up R and Basic Syntax**
 
-- [ ] Install R and RStudio.
-- [ ] Familiarize yourself with RStudio’s interface.
-- [ ] Learn about basic syntax, variables, and data types.
-- [ ] Perform arithmetic and logical operations in R.
-- [ ] Write a simple R script and run it in RStudio.
+- [x] Install R and RStudio.
+- [x] Familiarize yourself with RStudio’s interface.
+- [x] Learn about basic syntax, variables, and data types.
+- [x] Perform arithmetic and logical operations in R.
+- [x] Write a simple R script and run it in RStudio.
 
 ---
 
