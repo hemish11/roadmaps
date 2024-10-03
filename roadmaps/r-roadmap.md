@@ -19,10 +19,10 @@ Below is the checklist for each day’s tasks. You can check off the tasks as yo
 
 ### **Day 2: Data Structures (Part 1)**
 
-- [ ] Learn about vectors and how to create and manipulate them.
-- [ ] Create and access elements in matrices.
-- [ ] Learn how to use arrays for multi-dimensional data.
-- [ ] Perform hands-on tasks with vectors and matrices.
+- [x] Learn about vectors and how to create and manipulate them.
+- [x] Create and access elements in matrices.
+- [x] Learn how to use arrays for multi-dimensional data.
+- [x] Perform hands-on tasks with vectors and matrices.
 
 ---
 
