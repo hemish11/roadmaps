@@ -28,10 +28,10 @@ Below is the checklist for each day’s tasks. You can check off the tasks as yo
 
 ### **Day 3: Data Structures (Part 2) and Functions**
 
-- [ ] Understand the creation and manipulation of data frames.
-- [ ] Work with lists and nested lists.
-- [ ] Define custom functions and pass arguments.
-- [ ] Practice creating data frames and writing functions.
+- [x] Understand the creation and manipulation of data frames.
+- [x] Work with lists and nested lists.
+- [x] Define custom functions and pass arguments.
+- [x] Practice creating data frames and writing functions.
 
 ---
 
