@@ -37,19 +37,19 @@ Below is the checklist for each day’s tasks. You can check off the tasks as yo
 
 ### **Day 4: Data Manipulation with dplyr**
 
-- [ ] Install and load the `dplyr` package.
-- [ ] Use `filter()`, `select()`, `mutate()`, `arrange()`, and `summarise()`.
-- [ ] Learn how to use `%>%` (pipe operator) for chaining operations.
-- [ ] Work on real datasets to perform data manipulation tasks.
+- [x] Install and load the `dplyr` package.
+- [x] Use `filter()`, `select()`, `mutate()`, `arrange()`, and `summarise()`.
+- [x] Learn how to use `%>%` (pipe operator) for chaining operations.
+- [x] Work on real datasets to perform data manipulation tasks.
 
 ---
 
 ### **Day 5: Data Importing and Cleaning**
 
-- [ ] Import CSV files using `read.csv()` and Excel files using `readxl`.
-- [ ] Handle missing data with `na.omit()` and `replace()`.
-- [ ] Rename columns, remove duplicates, and clean data.
-- [ ] Practice importing and cleaning a dataset.
+- [x] Import CSV files using `read.csv()` and Excel files using `readxl`.
+- [x] Handle missing data with `na.omit()` and `replace()`.
+- [x] Rename columns, remove duplicates, and clean data.
+- [x] Practice importing and cleaning a dataset.
 
 ---
 
