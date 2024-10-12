@@ -55,28 +55,28 @@ Below is the checklist for each day’s tasks. You can check off the tasks as yo
 
 ### **Day 6: Data Visualization with ggplot2 (Part 1)**
 
-- [ ] Install and load the `ggplot2` package.
-- [ ] Create basic plots: scatter plots, bar charts, and line plots.
-- [ ] Customize your plots with titles, labels, and themes.
-- [ ] Create visualizations using a sample dataset.
+- [x] Install and load the `ggplot2` package.
+- [x] Create basic plots: scatter plots, bar charts, and line plots.
+- [x] Customize your plots with titles, labels, and themes.
+- [x] Create visualizations using a sample dataset.
 
 ---
 
 ### **Day 7: Data Visualization with ggplot2 (Part 2)**
 
-- [ ] Create advanced plots like histograms, boxplots, and density plots.
-- [ ] Learn how to facet plots for multi-panel visualization.
-- [ ] Customize themes and add text annotations to plots.
-- [ ] Visualize complex data with customized ggplot2 plots.
+- [x] Create advanced plots like histograms, boxplots, and density plots.
+- [x] Learn how to facet plots for multi-panel visualization.
+- [x] Customize themes and add text annotations to plots.
+- [x] Visualize complex data with customized ggplot2 plots.
 
 ---
 
 ### **Day 8: Statistical Analysis (Part 1)**
 
-- [ ] Perform basic statistical analysis: mean, median, variance.
-- [ ] Generate random numbers from normal, binomial, and Poisson distributions.
-- [ ] Visualize distributions with histograms and density plots.
-- [ ] Apply statistical functions to real datasets.
+- [x] Perform basic statistical analysis: mean, median, variance.
+- [x] Generate random numbers from normal, binomial, and Poisson distributions.
+- [x] Visualize distributions with histograms and density plots.
+- [x] Apply statistical functions to real datasets.
 
 ---
 
