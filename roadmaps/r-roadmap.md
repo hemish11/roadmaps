@@ -82,19 +82,19 @@ Below is the checklist for each day’s tasks. You can check off the tasks as yo
 
 ### **Day 9: Statistical Analysis (Part 2)**
 
-- [ ] Perform hypothesis testing: t-test and chi-squared test.
-- [ ] Build and interpret simple linear regression models.
-- [ ] Learn how to evaluate regression model results.
-- [ ] Practice with regression analysis on a dataset.
+- [x] Perform hypothesis testing: t-test and chi-squared test.
+- [x] Build and interpret simple linear regression models.
+- [x] Learn how to evaluate regression model results.
+- [x] Practice with regression analysis on a dataset.
 
 ---
 
 ### **Day 10: Machine Learning in R (Part 1)**
 
-- [ ] Split data into training and testing sets.
-- [ ] Implement linear and logistic regression models.
-- [ ] Build decision trees and random forests.
-- [ ] Evaluate model performance using confusion matrices.
+- [x] Split data into training and testing sets.
+- [x] Implement linear and logistic regression models.
+- [x] Build decision trees and random forests.
+- [x] Evaluate model performance using confusion matrices.
 
 ---
 
